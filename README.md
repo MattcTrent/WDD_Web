@@ -1,3 +1,41 @@
+TO Run: 
+Create a DB called Phonebook
+
+Update Connectionstring in WebApplication1
+
+run migration (Update-Database)
+
+Run WebApplication1
+
+Update API_URL in src/Service/Constants to URL
+
+run npm start in PhonebookReact/phonebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
